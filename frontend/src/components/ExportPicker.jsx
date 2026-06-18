@@ -100,7 +100,7 @@ export default function ExportPicker({ onFilesReady }) {
     <div className="export-picker">
       <p className="export-picker__hint muted">
         Choose the <strong>.zip</strong> from Instagram (recommended on phone) or the unzipped folder.
-        Connections-only exports work; full exports do too.
+        Export <strong>Connections only</strong> with <strong>All time</strong> selected.
       </p>
       <div className="export-picker__actions">
         <label className="export-picker__btn export-picker__btn--primary">

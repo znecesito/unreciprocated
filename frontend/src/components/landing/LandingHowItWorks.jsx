@@ -4,7 +4,7 @@ const STEPS = [
   {
     number: 1,
     title: "Request your export",
-    copy: "In Instagram's Accounts Center, export Connections (smallest) or your full account data — JSON format, to device or email."
+    copy: "In Instagram's Accounts Center, export Connections only — JSON format, All time date range, to device or email."
   },
   {
     number: 2,

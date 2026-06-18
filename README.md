@@ -14,7 +14,7 @@
 - Runs entirely in your browser
 - No login, no server, no scraping
 - Uses JSON from Meta's **Download your information** export only
-- Connections-only exports work; full exports work too
+- Export **Connections only** with **All time** selected — partial date ranges produce incomplete lists and wrong results
 
 ## Run locally
 
