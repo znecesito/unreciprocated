@@ -84,4 +84,3 @@ Compare logic supports a second direction (`YOU_DONT_FOLLOW_BACK`) for future us
 ## License
 
 Private side project. All rights reserved unless otherwise noted.
-<!-- git connectivity test: 2026-08-29 -->
